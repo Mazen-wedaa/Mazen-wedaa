@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mazen Wedaa 👋</h1>
-<h3 align="center">A passionate software engineer from Egypt 🇪🇬</h3>
+<h3 align="center">A passionate software engineer from Sudan 🇸🇩</h3>
 
 <p align="center">
   <a href="https://github.com/Mazen-wedaa" target="_blank">
