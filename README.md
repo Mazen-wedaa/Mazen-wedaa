@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Mazen Wedaa 👋</h1>
-<h3 align="center">A passionate software engineer from Sudan 🇸🇩</h3>
+<h3 align="center">A passionate software engineer from Egypt 🇪🇬</h3>
 
 <p align="center">
   <a href="https://github.com/Mazen-wedaa" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=PROFILE&color=21262d&style=flat&logo=github&logo-color=white" alt="Github"/>
+    <img src="https://img.shields.io/static/v1?label=|&amp;message=PROFILE&amp;color=21262d&amp;style=flat&amp;logo=github&amp;logo-color=white" alt="Github"/>
   </a>
   <a href="https://www.linkedin.com/in/mazen-wedaa-168479220" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=0A66C2&style=flat&logo=linkedin&logo-color=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?label=|&amp;message=LINKEDIN&amp;color=0A66C2&amp;style=flat&amp;logo=linkedin&amp;logo-color=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mazenwedaa2065@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=GMAIL&color=EA4335&style=flat&logo=gmail&logo-color=white" alt="Gmail"/>
+    <img src="https://img.shields.io/static/v1?label=|&amp;message=GMAIL&amp;color=EA4335&amp;style=flat&amp;logo=gmail&amp;logo-color=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -48,9 +48,9 @@
       </a>
       <br />
       <p align="center">
-        <b>[Add technologies used here]</b>
+        <b>Next.js, TypeScript, Prisma, Turborepo, PostgreSQL, NextAuth.js, React Query, shadcn/ui, Docker, Kubernetes, Terraform</b>
       </p>
-      <p>[Add a brief description of your project here. I was unable to access the repository to gather this information.]</p>
+      <p>TagMe v2.1 is a privacy-first social recognition platform where users anonymously tag others with meaningful labels. Built with Next.js 14, TypeScript, and Prisma in a Turborepo monorepo, it features a three-tier tag system (rare NARROW tags with usage limits, COMMON unlimited tags, and EXTENDED categories) where recipients can reveal rare tag senders once. The stack includes PostgreSQL, NextAuth.js, React Query for real-time updates, shadcn/ui components, and full infrastructure support via Docker, Kubernetes, and Terraform.</p>
     </td>
   </tr>
   <tr>
@@ -75,10 +75,10 @@
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mazen-wedaa&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mazen-wedaa&amp;show_icons=true&amp;theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazen-wedaa&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazen-wedaa&amp;layout=compact&amp;theme=radical" />
   </a>
 </p>
 
