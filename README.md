@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://github.com/Mazen-wedaa" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&amp;message=PROFILE&amp;color=21262d&amp;style=flat&amp;logo=github&amp;logo-color=white" alt="Github"/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=github&color=gray&size=40" alt="Github"/>
   </a>
   <a href="https://www.linkedin.com/in/mazen-wedaa-168479220" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&amp;message=LINKEDIN&amp;color=0A66C2&amp;style=flat&amp;logo=linkedin&amp;logo-color=white" alt="LinkedIn"/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&color=0A66C2&size=40" alt="LinkedIn"/>
   </a>
   <a href="mailto:mazenwedaa2065@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&amp;message=GMAIL&amp;color=EA4335&amp;style=flat&amp;logo=gmail&amp;logo-color=white" alt="Gmail"/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&color=EA4335&size=40" alt="Gmail"/>
   </a>
 </p>
 
